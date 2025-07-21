@@ -1,6 +1,6 @@
 # 🏀 Agentic AI Coach – Real Time Golden State Warriors Team Performance Analyzer
 
-Video link : CLICK HERE
+Video link : https://drive.google.com/file/d/1wiMNd8Cq0RjFb-VDcskqdQmI_-JZNJ81/view?usp=drive_link
 
 ## 📌 Overview
 
