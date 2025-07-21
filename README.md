@@ -30,7 +30,6 @@ The AI agent doesn't just display numbers—it:
 |--------------------|-------------------------------------------------------------------------|
 | **LangChain**       | To build the agentic AI pipeline using tool-based reasoning             |
 | **Gemini Flash (via LangChain)** | LLM model used for summarizing, analyzing, and recommending strategies |
-| **n8n** (optional integration) | Automation for fetching NBA data (when auto mode is enabled)         |
 | **Streamlit**       | Frontend for user interaction and visualization                          |
 | **NBA API & Web Scraping** | To get metadata and recap content from **real games**                      |
 
